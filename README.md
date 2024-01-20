@@ -1,3 +1,13 @@
+# Project Overview
+![image](https://github.com/PavanPk1/Node-React-Vite-ChatApplication/assets/119096078/168187bf-4e5d-40ad-af85-4304f5e47026)
+
+![image](https://github.com/PavanPk1/Node-React-Vite-ChatApplication/assets/119096078/2967f1bf-5445-49c9-bdfd-6bbb24401d2a)
+
+![image](https://github.com/PavanPk1/Node-React-Vite-ChatApplication/assets/119096078/83da306a-1cf6-45ce-a223-3ac233fcd844)
+
+
+
+
 # Instructions
 ## for backend
  1. npm init -y
@@ -11,8 +21,6 @@
 2. npm install axios
 3. npm run dev -- for running the application
 
-
-### For Documentation: https://docs.google.com/document/d/1gPPMWOevvFvGl5vKZLIYgaBqjusK3lHng44nhJHmvBA/edit?usp=sharing
 # Third Party Pacakges from npm are:
   1. In this we used "npm i react-chat-engine-advanced
   2. try this too by yourself "npm i react-chat-engine-pretty"
