@@ -1,7 +1,4 @@
 # Project Overview
- ## Demo
- ![image](https://github.com/PavanPk1/Node-React-Vite-ChatApplication/assets/119096078/f1fdf787-bed4-476f-becc-7dab24927fed)
-
  ## web pages
 ![image](https://github.com/PavanPk1/Node-React-Vite-ChatApplication/assets/119096078/168187bf-4e5d-40ad-af85-4304f5e47026)
 
